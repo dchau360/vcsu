@@ -7,4 +7,4 @@ Copy firmware to current directory
 
    Example: **--Put OA IP address not VC IP--**
  
-   ./vcsu -a update -i 192.168.100.2 -u admin -p admin -vcu admin -vcp admin -l ./hpvcfw.bin
+   ./vcsu -a update -i 192.168.100.2 -u admin -p admin -vcu admin -vcp admin -l .bin/hpvcfw.bin
