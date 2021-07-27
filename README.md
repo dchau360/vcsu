@@ -1,7 +1,6 @@
-Docker image to update HPE Virtual Connect(Not working yet)
+#Docker image to update HPE Virtual Connect(Not working yet)
 
-# Virtual Connect Support Utility
-Version:	1.15.0 (17 Dec 2019)
+Virtual Connect Support Utility - Version:	1.15.0 (17 Dec 2019)
 
 Copy firmware to current directory
 
