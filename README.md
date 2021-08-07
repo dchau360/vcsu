@@ -5,7 +5,7 @@ Virtual Connect Support Utility - Version:	1.15.0 (17 Dec 2019)
 
 
 1.  git clone https://github.com/dchau360/vcsu.git
-2.  Copy firmware to firmware directory
+2.  Copy vc firmware to firmware directory
 3.  Run docker file: docker build -t vcsu . && docker run -it vcsu bash
 
 
