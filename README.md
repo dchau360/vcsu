@@ -4,7 +4,7 @@ Virtual Connect Support Utility - Version:	1.15.0 (17 Dec 2019)
 
 
 
-1.  Copy firmware to bin directory
+1.  Copy firmware to firmware directory
 2.  Run docker file
    a. docker build .
    b. docker images # to list the image
@@ -13,4 +13,4 @@ Virtual Connect Support Utility - Version:	1.15.0 (17 Dec 2019)
 
    Example: **--Put OA IP address not VC IP--**
  
-   ./vcsu -a update -i 192.168.100.2 -u admin -p admin -vcu admin -vcp admin -l bin/hpvcfw.bin
+   ./vcsu -a update -i 192.168.100.2 -u admin -p admin -vcu admin -vcp admin -l firmware/hpvcfw.bin
