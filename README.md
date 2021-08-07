@@ -6,8 +6,11 @@ Virtual Connect Support Utility - Version:	1.15.0 (17 Dec 2019)
 
 1.  Copy firmware to firmware directory
 2.  Run docker file
+
    a. docker build .
+   
    b. docker images # to list the image
+   
    c. docker run -it <Image ID> /bin/bash
 
 
