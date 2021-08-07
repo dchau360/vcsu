@@ -1,10 +1,11 @@
-#Docker image to update HPE Virtual Connect(Not working yet)
+#Docker image to update HPE Virtual Connect
 
 Virtual Connect Support Utility - Version:	1.15.0 (17 Dec 2019)
 
 
 
-Copy firmware to firmware directory
+1.  Copy firmware to firmware directory
+2.  Run docker file
 
 
    Example: **--Put OA IP address not VC IP--**
